@@ -26,6 +26,7 @@ function draw() {
   background(255);
    // Displays the image at its actual size at point (0,0)
    image(img, 0, 0); 
+  
    tags.resize(0, 20);
    //image(tag4, 0, 0);
  
